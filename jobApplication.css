@@ -1,0 +1,21 @@
+body{
+    background-image: url(geometric-leaves.png);
+}
+
+h1{
+    text-align: center;
+    border-style: double;
+}
+
+fieldset{
+    border-radius: 25px;
+    border:solid 2px black;
+    margin-bottom: 20px;
+}
+
+legend{
+    font-size: 20px;
+    font-family: "Courgette";
+    font-weight: bold;
+    text-align: center;
+}
